@@ -1,5 +1,5 @@
 * termuxdoomemacs
-This is my Termux files for my Doom Emacs. I made a [[abepeters.com/posts/emacs-on-the-go-android][post]] on how install Doom Emacs on my Android devices.
+This is my Termux files for my Doom Emacs. I made a [[https://abepeters.com/posts/emacs-on-the-go-android][post]] on how install Doom Emacs on my Android devices.
 Replace these files with your current ones.
 
 Good luck.
